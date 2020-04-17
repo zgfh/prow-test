@@ -1,0 +1,4 @@
+lgtm:
+- repos:
+  - istio
+  review_acts_as_lgtm: true
